@@ -6,13 +6,13 @@ projeto construido no evento Next Level Week da Rocketseat.
 
 ![preview](./.github/preview.png)
 
-[🔗Clique aqui oara acessar](https://pietravaezz.github.io/nlw-esports-explorer)
+[🔗Clique aqui para acessar](https://pietravaezz.github.io/nlw-esports-explorer)
 
 ## 👩‍💻 Tecnologias
 
 - HTML
 - CSS
-- GIT
+- Git
 - GitHub
 
 ## 📲 Contato
